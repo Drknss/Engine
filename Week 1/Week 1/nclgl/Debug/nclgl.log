@@ -1,0 +1,26 @@
+﻿Build started 11/3/2015 3:05:19 PM.
+     1>Project "\\TOWER5\home30\b3040600\Downloads\Week 1\Week 1\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HeightMap.cpp
+         HeightMap.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"\\TOWER5\home30\b3040600\Downloads\Week 1\Week 1\graphics for games\Debug\nclgl.lib" /NOLOGO Debug\Camera.obj
+         Debug\Frustum.obj
+         Debug\GameTimer.obj
+         Debug\HeightMap.obj
+         Debug\Keyboard.obj
+         Debug\Matrix4.obj
+         Debug\Mesh.obj
+         Debug\Mouse.obj
+         Debug\OGLRenderer.obj
+         Debug\Plane.obj
+         Debug\Quaternion.obj
+         Debug\SceneNode.obj
+         Debug\Shader.obj
+         Debug\Window.obj
+         nclgl.vcxproj -> \\TOWER5\home30\b3040600\Downloads\Week 1\Week 1\graphics for games\Debug\nclgl.lib
+     1>Done Building Project "\\TOWER5\home30\b3040600\Downloads\Week 1\Week 1\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.80
